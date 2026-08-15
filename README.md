@@ -1,6 +1,6 @@
 #  Hello, I'm Igiraneza Kevin Safi
 
-###  Senior Software Developer | Software Architecture | System Design
+###  Senior Software Developer | Software Architecture | System Design | Intelligent system 
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
