@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Igiraneza Kevin Safi
+#  Hello, I'm Igiraneza Kevin Safi
 
-### 🚀 Senior Software Developer | Software Architecture | System Design
+###  Senior Software Developer | Software Architecture | System Design
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm a **Senior Software Developer** focused on designing and building **scalable, reliable, secure, and maintainable software systems**.
 
@@ -21,21 +21,21 @@ My work goes beyond writing code. I enjoy understanding complex business problem
 
 ### What I Do
 
-- 🏗️ Design scalable software architectures
-- 🧩 Build reliable backend systems and APIs
-- 🔄 Develop microservices and distributed systems
-- 🧠 Translate business requirements into technical solutions
-- ⚡ Improve application performance and scalability
-- 🔐 Apply security and engineering best practices
-- 🧪 Design testing strategies and quality processes
-- 🤝 Collaborate with developers, designers, and product teams
-- 📚 Continuously learn and explore modern technologies
+-  Design scalable software architectures
+-  Build reliable backend systems and APIs
+-  Develop microservices and distributed systems
+-  Translate business requirements into technical solutions
+-  Improve application performance and scalability
+-  Apply security and engineering best practices
+-  Design testing strategies and quality processes
+-  Collaborate with developers, designers, and product teams
+-  Continuously learn and explore modern technologies
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
-## 🔙 Backend Development
+##  Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs" />
@@ -53,7 +53,7 @@ My work goes beyond writing code. I enjoy understanding complex business problem
 
 ---
 
-## 🎨 Frontend Development
+##  Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
@@ -68,7 +68,7 @@ My work goes beyond writing code. I enjoy understanding complex business problem
 
 ---
 
-## 🗄️ Database & Infrastructure
+##  Database & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux" />
@@ -85,33 +85,33 @@ My work goes beyond writing code. I enjoy understanding complex business problem
 
 ---
 
-# 🏛️ Engineering Approach
+#  Engineering Approach
 
 I approach software development from both an **engineering** and **product** perspective.
 
-### 1️⃣ Understand the Problem
+###  Understand the Problem
 
 Before writing code, I focus on understanding the business requirements, constraints, users, and expected outcomes.
 
-### 2️⃣ Design Before Implementation
+###  Design Before Implementation
 
 I think about architecture, data flow, APIs, dependencies, scalability, and failure scenarios before implementation.
 
-### 3️⃣ Build for Maintainability
+###  Build for Maintainability
 
 I believe code should be easy to understand, test, modify, and extend.
 
-### 4️⃣ Think About Scale
+### think About Scale
 
 I design systems with future growth in mind — from database optimization to service boundaries and distributed architectures.
 
-### 5️⃣ Continuously Improve
+###  Continuously Improve
 
 Software is never truly finished. I continuously look for ways to improve performance, reliability, security, developer experience, and maintainability.
 
 ---
 
-# 📐 Architecture & Design
+#  Architecture & Design
 
 ```text
 Business Requirements
