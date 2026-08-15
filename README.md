@@ -1,29 +1,45 @@
-#  Hello, I'm Igiraneza Kevin Safi
+# 👋 Hello, I'm Igiraneza Kevin Safi
 
-## Senior Software Developer | Software Architecture | System Design
+### 🚀 Senior Software Developer | Software Architecture | System Design
 
-I am a **Senior Software Developer** focused on designing and building scalable, reliable, and maintainable software systems.
-
-My expertise goes beyond writing code  I specialize in understanding complex business problems, designing effective software solutions, making architectural decisions, and delivering high-quality production systems.
-
-I believe great software is built through a combination of strong engineering practices, thoughtful architecture, clean code, and continuous improvement.
-
----
-
-##  About Me
-
--  Senior Software Developer passionate about building real-world software products
--  Experienced in software architecture and system design
--  Skilled at transforming business requirements into scalable technical solutions
--  Strong focus on clean architecture, maintainability, and performance
--  Always learning and exploring modern software engineering practices
--  Comfortable collaborating with developers, designers, and product teams
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-Expert-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-#  Technical Skills
+## 🧑‍💻 About Me
 
-## Backend Development
+I'm a **Senior Software Developer** focused on designing and building **scalable, reliable, secure, and maintainable software systems**.
+
+My work goes beyond writing code. I enjoy understanding complex business problems, translating them into technical solutions, making architectural decisions, and building production-ready systems that can grow with the business.
+
+> **"Good software solves today's problem. Great architecture prepares for tomorrow's."**
+
+### What I Do
+
+- 🏗️ Design scalable software architectures
+- 🧩 Build reliable backend systems and APIs
+- 🔄 Develop microservices and distributed systems
+- 🧠 Translate business requirements into technical solutions
+- ⚡ Improve application performance and scalability
+- 🔐 Apply security and engineering best practices
+- 🧪 Design testing strategies and quality processes
+- 🤝 Collaborate with developers, designers, and product teams
+- 📚 Continuously learn and explore modern technologies
+
+---
+
+# 🛠️ Technical Skills
+
+## 🔙 Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs" />
+</p>
 
 - TypeScript / JavaScript
 - Node.js
@@ -33,8 +49,15 @@ I believe great software is built through a combination of strong engineering pr
 - Microservices
 - Domain-Driven Design (DDD)
 - Clean Architecture
+- Event-Driven Architecture
 
-## Frontend Development
+---
+
+## 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+</p>
 
 - React
 - TypeScript
@@ -43,7 +66,13 @@ I believe great software is built through a combination of strong engineering pr
 - Responsive UI Development
 - Modern Web Applications
 
-## Database & Infrastructure
+---
+
+## 🗄️ Database & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux" />
+</p>
 
 - PostgreSQL
 - Database Design
@@ -51,21 +80,62 @@ I believe great software is built through a combination of strong engineering pr
 - Query Optimization
 - Docker
 - CI/CD
+- Linux
 - Cloud-ready Applications
-
-## Software Engineering
-
-- System Design
-- Software Architecture
-- API Design
-- Scalability & Performance
-- Security Best Practices
-- Testing Strategies
-- Code Reviews
-- Agile Development
 
 ---
 
-#  Engineering Approach
+# 🏛️ Engineering Approach
 
-I approach software development from both an engineering and product perspective:
+I approach software development from both an **engineering** and **product** perspective.
+
+### 1️⃣ Understand the Problem
+
+Before writing code, I focus on understanding the business requirements, constraints, users, and expected outcomes.
+
+### 2️⃣ Design Before Implementation
+
+I think about architecture, data flow, APIs, dependencies, scalability, and failure scenarios before implementation.
+
+### 3️⃣ Build for Maintainability
+
+I believe code should be easy to understand, test, modify, and extend.
+
+### 4️⃣ Think About Scale
+
+I design systems with future growth in mind — from database optimization to service boundaries and distributed architectures.
+
+### 5️⃣ Continuously Improve
+
+Software is never truly finished. I continuously look for ways to improve performance, reliability, security, developer experience, and maintainability.
+
+---
+
+# 📐 Architecture & Design
+
+```text
+Business Requirements
+        │
+        ▼
+System Architecture
+        │
+        ├── Clean Architecture
+        ├── Domain-Driven Design
+        ├── Microservices
+        └── System Design
+        │
+        ▼
+Implementation
+        │
+        ├── APIs
+        ├── Services
+        ├── Databases
+        └── Integrations
+        │
+        ▼
+Quality & Delivery
+        │
+        ├── Testing
+        ├── CI/CD
+        ├── Security
+        └── Monitoring
